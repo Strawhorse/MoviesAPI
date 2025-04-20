@@ -17,4 +17,10 @@ public class MoviesApplication {
 	public String apiRoot() {
 		return "API Root page";
 	}
+
+	@GetMapping
+	public String apiMain() {
+		return "Root page";
+	}
+
 }
