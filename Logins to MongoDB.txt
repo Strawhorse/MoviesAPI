@@ -1,0 +1,4 @@
+mongodb+srv://jbracken:<db_password>@cluster0.5xqe4.mongodb.net/
+
+jbracken
+Welcome2mmk!
